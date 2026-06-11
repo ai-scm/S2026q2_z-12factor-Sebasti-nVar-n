@@ -1,17 +1,17 @@
-The 12-Factor App - Assignment
-Este repositorio contiene la justificación y análisis de los cuatro factores de la metodología The Twelve-Factor App seleccionados como base para el desarrollo de los proyectos en la organización.
+# 🚀 12-Factor App Assignment
 
-Descripción
-En el marco de la etapa de Seedbed All Star, he analizado los factores que mejor se alinean con nuestras prácticas actuales de desarrollo utilizando Git, Docker y despliegues en la nube. Este análisis busca estandarizar la arquitectura, mejorar la portabilidad y asegurar la escalabilidad de nuestras aplicaciones.
+Este repositorio contiene la justificación técnica de los cuatro factores de la metodología **The Twelve-Factor App** seleccionados para optimizar nuestros proyectos en **Blend360**.
 
-Factores Seleccionados
-Config (Configuración): Centralización de variables de entorno para una mayor portabilidad.
+---
 
-Backing Services (Servicios de apoyo): Tratamiento de recursos adjuntos para facilitar la escalabilidad.
+## 📌 Factores Seleccionados
 
-Disposability (Desechabilidad): Optimización para despliegues rápidos y apagado seguro.
+*   **Config (Configuración):** Centralización de variables de entorno para garantizar portabilidad.
+*   **Backing Services:** Tratamiento de recursos adjuntos para facilitar la escalabilidad.
+*   **Disposability (Desechabilidad):** Optimización para despliegues rápidos y apagado seguro.
+*   **Dev/Prod Parity:** Uso de Docker para garantizar consistencia entre entornos.
 
-Dev/Prod Parity (Paridad entre desarrollo y producción): Uso de Docker para garantizar consistencia entre entornos.
+---
 
-Contenido
-Justificación de los 4 (Sebastián Varón).md: Documento detallado con el análisis técnico y justificación de los factores elegidos.
+## 📂 Contenido
+*   [Justificación de los 4 (Sebastián Varón).md]

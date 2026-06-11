@@ -14,4 +14,4 @@ Este repositorio contiene la justificación técnica de los cuatro factores de l
 ---
 
 ## 📂 Contenido
-*   [Justificación de los 4 (Sebastián Varón).md]
+*   [los-4-Factores-Clave-de-The-Twelve-Factor (Sebastiàn Varòn).md]
